@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Conda environments
+*.conda
+*.env
+*.yml
+
+# VSCode settings
+.vscode/
+
+# macOS / Linux
+.DS_Store
+Thumbs.db
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+*.bak
+
+# Model weights & checkpoints
+*.ckpt
+*.h5
+*.pt
+*.pth
+
+# PyTorch Lightning or TensorFlow logs
+lightning_logs/
+tensorboard/
+logs/
+
+# Environment files
+.env
+.env.*
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.zip
+*.tar.gz
+data/
+datasets/
